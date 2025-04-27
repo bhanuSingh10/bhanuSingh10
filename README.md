@@ -34,6 +34,7 @@
   <br>
   <a href="https://www.linkedin.com/in/bhanu-singh-405581249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    
   </a>
 
   <a href="mailto:iam.singhbhanu@gmail.com" target="_blank">
@@ -52,6 +53,11 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge">
   </a>
  
-
+  
   <br>
+
+
+  
+![](https://github.com/bhanuSingh10/bhanuSingh10/blob/output/github-snake-dark.svg)
+
 </div>
