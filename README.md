@@ -3,7 +3,7 @@
 - I'm a UG IT student at IIIT Lucknow.
 - Focused on competitive coding and web development.
 - Experienced in full-stack development and AI integrations.
-
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuSingh10&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuSingh10" /> </p>
 
 <div>
   <a href="https://beacons.ai/bhanuSingh10">
